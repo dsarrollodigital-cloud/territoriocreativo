@@ -1,0 +1,5 @@
+{
+  "name": "Territorio Creativo",
+  "description": "An interactive 20x20 matrix explorer that uses Gemini AI to synthesize and name the intersections between design innovation and functional utility.",
+  "requestFramePermissions": []
+}
